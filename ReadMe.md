@@ -100,8 +100,8 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 
 
-[ISO2::NZ] 
-[ISO3::NZL] 
+[ISO2::NZ]  
+[ISO3::NZL]   
 ```leaflet
 id: New Zealand
 zoomFeatures: true 

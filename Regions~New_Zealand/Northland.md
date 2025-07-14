@@ -40,11 +40,16 @@ markerFolder: ./Northland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Northland|Northland]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Northland.public|Northland.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Northland.internal|Northland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Northland.protect|Northland.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Northland.private|Northland.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Northland.personal|Northland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Northland.secret|Northland.secret]] 
+
+### [Northland.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.public.md) 
+
+### [Northland.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.internal.md) 
+
+### [Northland.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.protect.md) 
+
+### [Northland.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.private.md) 
+
+### [Northland.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.personal.md) 
+
+### [Northland.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.secret.md)
 

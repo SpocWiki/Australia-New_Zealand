@@ -40,11 +40,16 @@ markerFolder: ./Canterbury/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Canterbury|Canterbury]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Canterbury.public|Canterbury.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Canterbury.internal|Canterbury.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Canterbury.protect|Canterbury.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Canterbury.private|Canterbury.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Canterbury.personal|Canterbury.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Canterbury.secret|Canterbury.secret]] 
+
+### [Canterbury.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCanterbury.public.md) 
+
+### [Canterbury.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCanterbury.internal.md) 
+
+### [Canterbury.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCanterbury.protect.md) 
+
+### [Canterbury.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCanterbury.private.md) 
+
+### [Canterbury.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCanterbury.personal.md) 
+
+### [Canterbury.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCanterbury.secret.md)
 

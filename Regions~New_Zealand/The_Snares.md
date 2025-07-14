@@ -40,11 +40,16 @@ markerFolder: ./The_Snares/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/The_Snares|The_Snares]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/The_Snares.public|The_Snares.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.internal|The_Snares.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/The_Snares.protect|The_Snares.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/The_Snares.private|The_Snares.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.personal|The_Snares.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/The_Snares.secret|The_Snares.secret]] 
+
+### [The_Snares.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThe_Snares.public.md) 
+
+### [The_Snares.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThe_Snares.internal.md) 
+
+### [The_Snares.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThe_Snares.protect.md) 
+
+### [The_Snares.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThe_Snares.private.md) 
+
+### [The_Snares.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThe_Snares.personal.md) 
+
+### [The_Snares.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThe_Snares.secret.md)
 

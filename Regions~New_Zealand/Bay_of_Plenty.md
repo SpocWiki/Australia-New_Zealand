@@ -40,11 +40,16 @@ markerFolder: ./Bay_of_Plenty/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Bay_of_Plenty|Bay_of_Plenty]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Bay_of_Plenty.public|Bay_of_Plenty.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Bay_of_Plenty.internal|Bay_of_Plenty.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Bay_of_Plenty.protect|Bay_of_Plenty.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Bay_of_Plenty.private|Bay_of_Plenty.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Bay_of_Plenty.personal|Bay_of_Plenty.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Bay_of_Plenty.secret|Bay_of_Plenty.secret]] 
+
+### [Bay_of_Plenty.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBay_of_Plenty.public.md) 
+
+### [Bay_of_Plenty.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBay_of_Plenty.internal.md) 
+
+### [Bay_of_Plenty.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBay_of_Plenty.protect.md) 
+
+### [Bay_of_Plenty.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBay_of_Plenty.private.md) 
+
+### [Bay_of_Plenty.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBay_of_Plenty.personal.md) 
+
+### [Bay_of_Plenty.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBay_of_Plenty.secret.md)
 

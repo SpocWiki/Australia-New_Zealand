@@ -40,11 +40,16 @@ markerFolder: ./West_Coast/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/West_Coast|West_Coast]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/West_Coast.public|West_Coast.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/West_Coast.internal|West_Coast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/West_Coast.protect|West_Coast.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/West_Coast.private|West_Coast.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/West_Coast.personal|West_Coast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/West_Coast.secret|West_Coast.secret]] 
+
+### [West_Coast.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.public.md) 
+
+### [West_Coast.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.internal.md) 
+
+### [West_Coast.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.protect.md) 
+
+### [West_Coast.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.private.md) 
+
+### [West_Coast.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.personal.md) 
+
+### [West_Coast.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.secret.md)
 

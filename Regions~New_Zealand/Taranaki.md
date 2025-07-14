@@ -40,11 +40,16 @@ markerFolder: ./Taranaki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Taranaki|Taranaki]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Taranaki.public|Taranaki.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Taranaki.internal|Taranaki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Taranaki.protect|Taranaki.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Taranaki.private|Taranaki.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Taranaki.personal|Taranaki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Taranaki.secret|Taranaki.secret]] 
+
+### [Taranaki.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.public.md) 
+
+### [Taranaki.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.internal.md) 
+
+### [Taranaki.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.protect.md) 
+
+### [Taranaki.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.private.md) 
+
+### [Taranaki.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.personal.md) 
+
+### [Taranaki.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.secret.md)
 

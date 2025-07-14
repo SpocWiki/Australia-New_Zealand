@@ -40,11 +40,16 @@ markerFolder: ./Auckland_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Auckland_Islands|Auckland_Islands]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Auckland_Islands.public|Auckland_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Auckland_Islands.internal|Auckland_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Auckland_Islands.protect|Auckland_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Auckland_Islands.private|Auckland_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Auckland_Islands.personal|Auckland_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Auckland_Islands.secret|Auckland_Islands.secret]] 
+
+### [Auckland_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.public.md) 
+
+### [Auckland_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.internal.md) 
+
+### [Auckland_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.protect.md) 
+
+### [Auckland_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.private.md) 
+
+### [Auckland_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.personal.md) 
+
+### [Auckland_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.secret.md)
 

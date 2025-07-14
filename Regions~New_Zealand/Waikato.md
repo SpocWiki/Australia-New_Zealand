@@ -40,11 +40,16 @@ markerFolder: ./Waikato/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Waikato|Waikato]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Waikato.public|Waikato.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Waikato.internal|Waikato.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Waikato.protect|Waikato.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Waikato.private|Waikato.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Waikato.personal|Waikato.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Waikato.secret|Waikato.secret]] 
+
+### [Waikato.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWaikato.public.md) 
+
+### [Waikato.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWaikato.internal.md) 
+
+### [Waikato.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWaikato.protect.md) 
+
+### [Waikato.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWaikato.private.md) 
+
+### [Waikato.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWaikato.personal.md) 
+
+### [Waikato.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWaikato.secret.md)
 

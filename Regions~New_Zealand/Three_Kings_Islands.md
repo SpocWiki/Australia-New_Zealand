@@ -40,11 +40,16 @@ markerFolder: ./Three_Kings_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Three_Kings_Islands|Three_Kings_Islands]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Three_Kings_Islands.public|Three_Kings_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Three_Kings_Islands.internal|Three_Kings_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Three_Kings_Islands.protect|Three_Kings_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Three_Kings_Islands.private|Three_Kings_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Three_Kings_Islands.personal|Three_Kings_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Three_Kings_Islands.secret|Three_Kings_Islands.secret]] 
+
+### [Three_Kings_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.public.md) 
+
+### [Three_Kings_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.internal.md) 
+
+### [Three_Kings_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.protect.md) 
+
+### [Three_Kings_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.private.md) 
+
+### [Three_Kings_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.personal.md) 
+
+### [Three_Kings_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.secret.md)
 

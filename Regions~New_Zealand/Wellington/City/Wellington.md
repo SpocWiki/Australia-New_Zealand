@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-41.28,174.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/City/Wellington|Wellington]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/City/Wellington.public|Wellington.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/City/Wellington.internal|Wellington.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/City/Wellington.protect|Wellington.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/City/Wellington.private|Wellington.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/City/Wellington.personal|Wellington.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/City/Wellington.secret|Wellington.secret]] 
+
+### [Wellington.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.public.md) 
+
+### [Wellington.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.internal.md) 
+
+### [Wellington.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.protect.md) 
+
+### [Wellington.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.private.md) 
+
+### [Wellington.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.personal.md) 
+
+### [Wellington.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.secret.md)
+

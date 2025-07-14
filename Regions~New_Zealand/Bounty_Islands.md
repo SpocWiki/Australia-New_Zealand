@@ -40,11 +40,16 @@ markerFolder: ./Bounty_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Bounty_Islands|Bounty_Islands]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Bounty_Islands.public|Bounty_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Bounty_Islands.internal|Bounty_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Bounty_Islands.protect|Bounty_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Bounty_Islands.private|Bounty_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Bounty_Islands.personal|Bounty_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Bounty_Islands.secret|Bounty_Islands.secret]] 
+
+### [Bounty_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.public.md) 
+
+### [Bounty_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.internal.md) 
+
+### [Bounty_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.protect.md) 
+
+### [Bounty_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.private.md) 
+
+### [Bounty_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.personal.md) 
+
+### [Bounty_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.secret.md)
 

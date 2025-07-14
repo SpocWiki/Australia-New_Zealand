@@ -40,11 +40,16 @@ markerFolder: ./Nelson_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Nelson_City|Nelson_City]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Nelson_City.public|Nelson_City.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Nelson_City.internal|Nelson_City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Nelson_City.protect|Nelson_City.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Nelson_City.private|Nelson_City.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Nelson_City.personal|Nelson_City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Nelson_City.secret|Nelson_City.secret]] 
+
+### [Nelson_City.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNelson_City.public.md) 
+
+### [Nelson_City.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNelson_City.internal.md) 
+
+### [Nelson_City.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNelson_City.protect.md) 
+
+### [Nelson_City.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNelson_City.private.md) 
+
+### [Nelson_City.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNelson_City.personal.md) 
+
+### [Nelson_City.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNelson_City.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Southland/
 
 ## Confidential Links & Embeds: 
 
-### [Southland.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandSouthland.public.md) 
+### [Southland](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.md) 
 
-### [Southland.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandSouthland.internal.md) 
+### [Southland.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.public.md) 
 
-### [Southland.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandSouthland.protect.md) 
+### [Southland.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.internal.md) 
 
-### [Southland.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandSouthland.private.md) 
+### [Southland.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.protect.md) 
 
-### [Southland.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandSouthland.personal.md) 
+### [Southland.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.private.md) 
 
-### [Southland.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandSouthland.secret.md)
+### [Southland.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.personal.md) 
+
+### [Southland.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.secret.md)
 

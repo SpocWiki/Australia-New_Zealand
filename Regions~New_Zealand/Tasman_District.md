@@ -41,15 +41,17 @@ markerFolder: ./Tasman_District/
 
 ## Confidential Links & Embeds: 
 
-### [Tasman_District.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTasman_District.public.md) 
+### [Tasman_District](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.md) 
 
-### [Tasman_District.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTasman_District.internal.md) 
+### [Tasman_District.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.public.md) 
 
-### [Tasman_District.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTasman_District.protect.md) 
+### [Tasman_District.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.internal.md) 
 
-### [Tasman_District.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTasman_District.private.md) 
+### [Tasman_District.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.protect.md) 
 
-### [Tasman_District.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTasman_District.personal.md) 
+### [Tasman_District.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.private.md) 
 
-### [Tasman_District.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTasman_District.secret.md)
+### [Tasman_District.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.personal.md) 
+
+### [Tasman_District.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.secret.md)
 

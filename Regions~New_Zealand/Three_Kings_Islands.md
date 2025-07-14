@@ -41,15 +41,17 @@ markerFolder: ./Three_Kings_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Three_Kings_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.public.md) 
+### [Three_Kings_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.md) 
 
-### [Three_Kings_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.internal.md) 
+### [Three_Kings_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.public.md) 
 
-### [Three_Kings_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.protect.md) 
+### [Three_Kings_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.internal.md) 
 
-### [Three_Kings_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.private.md) 
+### [Three_Kings_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.protect.md) 
 
-### [Three_Kings_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.personal.md) 
+### [Three_Kings_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.private.md) 
 
-### [Three_Kings_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandThree_Kings_Islands.secret.md)
+### [Three_Kings_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.personal.md) 
+
+### [Three_Kings_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.secret.md)
 

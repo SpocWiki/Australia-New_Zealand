@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wellington.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.public.md) 
+### [Wellington](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.md) 
 
-### [Wellington.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.internal.md) 
+### [Wellington.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.public.md) 
 
-### [Wellington.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.protect.md) 
+### [Wellington.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.internal.md) 
 
-### [Wellington.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.private.md) 
+### [Wellington.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.protect.md) 
 
-### [Wellington.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.personal.md) 
+### [Wellington.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.private.md) 
 
-### [Wellington.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington\CityWellington.secret.md)
+### [Wellington.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.personal.md) 
+
+### [Wellington.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.secret.md)
 

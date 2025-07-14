@@ -41,15 +41,17 @@ markerFolder: ./Northland/
 
 ## Confidential Links & Embeds: 
 
-### [Northland.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.public.md) 
+### [Northland](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.md) 
 
-### [Northland.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.internal.md) 
+### [Northland.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.public.md) 
 
-### [Northland.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.protect.md) 
+### [Northland.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.internal.md) 
 
-### [Northland.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.private.md) 
+### [Northland.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.protect.md) 
 
-### [Northland.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.personal.md) 
+### [Northland.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.private.md) 
 
-### [Northland.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandNorthland.secret.md)
+### [Northland.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.personal.md) 
+
+### [Northland.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.secret.md)
 

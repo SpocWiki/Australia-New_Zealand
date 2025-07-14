@@ -41,15 +41,17 @@ markerFolder: ./Wellington/
 
 ## Confidential Links & Embeds: 
 
-### [Wellington.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWellington.public.md) 
+### [Wellington](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.md) 
 
-### [Wellington.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWellington.internal.md) 
+### [Wellington.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.public.md) 
 
-### [Wellington.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWellington.protect.md) 
+### [Wellington.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.internal.md) 
 
-### [Wellington.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWellington.private.md) 
+### [Wellington.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.protect.md) 
 
-### [Wellington.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWellington.personal.md) 
+### [Wellington.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.private.md) 
 
-### [Wellington.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWellington.secret.md)
+### [Wellington.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.personal.md) 
+
+### [Wellington.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.secret.md)
 

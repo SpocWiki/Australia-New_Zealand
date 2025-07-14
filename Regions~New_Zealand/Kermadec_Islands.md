@@ -41,15 +41,17 @@ markerFolder: ./Kermadec_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Kermadec_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandKermadec_Islands.public.md) 
+### [Kermadec_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.md) 
 
-### [Kermadec_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandKermadec_Islands.internal.md) 
+### [Kermadec_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.public.md) 
 
-### [Kermadec_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandKermadec_Islands.protect.md) 
+### [Kermadec_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.internal.md) 
 
-### [Kermadec_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandKermadec_Islands.private.md) 
+### [Kermadec_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.protect.md) 
 
-### [Kermadec_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandKermadec_Islands.personal.md) 
+### [Kermadec_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.private.md) 
 
-### [Kermadec_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandKermadec_Islands.secret.md)
+### [Kermadec_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.personal.md) 
+
+### [Kermadec_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.secret.md)
 

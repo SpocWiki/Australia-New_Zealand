@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Australia\New_ZealandLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Australasia/New_Zealand/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Australia\New_ZealandLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Australasia/New_Zealand/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Australia\New_ZealandLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Australasia/New_Zealand/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Australia\New_ZealandLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Australasia/New_Zealand/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Australia\New_ZealandLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Australasia/New_Zealand/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Australia\New_ZealandLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Australasia/New_Zealand/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Australasia/New_Zealand/License.secret.md)
 

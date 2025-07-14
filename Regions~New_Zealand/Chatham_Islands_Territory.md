@@ -41,15 +41,17 @@ markerFolder: ./Chatham_Islands_Territory/
 
 ## Confidential Links & Embeds: 
 
-### [Chatham_Islands_Territory.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandChatham_Islands_Territory.public.md) 
+### [Chatham_Islands_Territory](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Chatham_Islands_Territory.md) 
 
-### [Chatham_Islands_Territory.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandChatham_Islands_Territory.internal.md) 
+### [Chatham_Islands_Territory.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Chatham_Islands_Territory.public.md) 
 
-### [Chatham_Islands_Territory.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandChatham_Islands_Territory.protect.md) 
+### [Chatham_Islands_Territory.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Chatham_Islands_Territory.internal.md) 
 
-### [Chatham_Islands_Territory.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandChatham_Islands_Territory.private.md) 
+### [Chatham_Islands_Territory.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Chatham_Islands_Territory.protect.md) 
 
-### [Chatham_Islands_Territory.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandChatham_Islands_Territory.personal.md) 
+### [Chatham_Islands_Territory.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Chatham_Islands_Territory.private.md) 
 
-### [Chatham_Islands_Territory.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandChatham_Islands_Territory.secret.md)
+### [Chatham_Islands_Territory.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Chatham_Islands_Territory.personal.md) 
+
+### [Chatham_Islands_Territory.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Chatham_Islands_Territory.secret.md)
 

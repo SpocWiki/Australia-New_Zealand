@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Wellington_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/_Lakes.secret.md)
 

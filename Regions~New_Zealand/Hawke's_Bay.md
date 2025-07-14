@@ -41,15 +41,17 @@ markerFolder: ./Hawke's_Bay/
 
 ## Confidential Links & Embeds: 
 
-### [Hawke's_Bay.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandHawke's_Bay.public.md) 
+### [Hawke's_Bay](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.md) 
 
-### [Hawke's_Bay.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandHawke's_Bay.internal.md) 
+### [Hawke's_Bay.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.public.md) 
 
-### [Hawke's_Bay.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandHawke's_Bay.protect.md) 
+### [Hawke's_Bay.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.internal.md) 
 
-### [Hawke's_Bay.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandHawke's_Bay.private.md) 
+### [Hawke's_Bay.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.protect.md) 
 
-### [Hawke's_Bay.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandHawke's_Bay.personal.md) 
+### [Hawke's_Bay.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.private.md) 
 
-### [Hawke's_Bay.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandHawke's_Bay.secret.md)
+### [Hawke's_Bay.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.personal.md) 
+
+### [Hawke's_Bay.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.secret.md)
 

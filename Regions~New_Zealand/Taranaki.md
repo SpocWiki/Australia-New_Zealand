@@ -41,15 +41,17 @@ markerFolder: ./Taranaki/
 
 ## Confidential Links & Embeds: 
 
-### [Taranaki.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.public.md) 
+### [Taranaki](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.md) 
 
-### [Taranaki.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.internal.md) 
+### [Taranaki.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.public.md) 
 
-### [Taranaki.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.protect.md) 
+### [Taranaki.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.internal.md) 
 
-### [Taranaki.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.private.md) 
+### [Taranaki.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.protect.md) 
 
-### [Taranaki.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.personal.md) 
+### [Taranaki.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.private.md) 
 
-### [Taranaki.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandTaranaki.secret.md)
+### [Taranaki.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.personal.md) 
+
+### [Taranaki.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.secret.md)
 

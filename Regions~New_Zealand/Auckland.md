@@ -41,15 +41,17 @@ markerFolder: ./Auckland/
 
 ## Confidential Links & Embeds: 
 
-### [Auckland.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland.public.md) 
+### [Auckland](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.md) 
 
-### [Auckland.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland.internal.md) 
+### [Auckland.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.public.md) 
 
-### [Auckland.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland.protect.md) 
+### [Auckland.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.internal.md) 
 
-### [Auckland.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland.private.md) 
+### [Auckland.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.protect.md) 
 
-### [Auckland.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland.personal.md) 
+### [Auckland.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.private.md) 
 
-### [Auckland.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland.secret.md)
+### [Auckland.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.personal.md) 
+
+### [Auckland.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.secret.md)
 

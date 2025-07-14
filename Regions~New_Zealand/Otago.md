@@ -41,15 +41,17 @@ markerFolder: ./Otago/
 
 ## Confidential Links & Embeds: 
 
-### [Otago.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandOtago.public.md) 
+### [Otago](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.md) 
 
-### [Otago.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandOtago.internal.md) 
+### [Otago.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.public.md) 
 
-### [Otago.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandOtago.protect.md) 
+### [Otago.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.internal.md) 
 
-### [Otago.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandOtago.private.md) 
+### [Otago.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.protect.md) 
 
-### [Otago.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandOtago.personal.md) 
+### [Otago.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.private.md) 
 
-### [Otago.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandOtago.secret.md)
+### [Otago.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.personal.md) 
+
+### [Otago.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.secret.md)
 

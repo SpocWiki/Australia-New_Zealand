@@ -41,15 +41,17 @@ markerFolder: ./Bounty_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Bounty_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.public.md) 
+### [Bounty_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.md) 
 
-### [Bounty_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.internal.md) 
+### [Bounty_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.public.md) 
 
-### [Bounty_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.protect.md) 
+### [Bounty_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.internal.md) 
 
-### [Bounty_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.private.md) 
+### [Bounty_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.protect.md) 
 
-### [Bounty_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.personal.md) 
+### [Bounty_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.private.md) 
 
-### [Bounty_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandBounty_Islands.secret.md)
+### [Bounty_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.personal.md) 
+
+### [Bounty_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.secret.md)
 

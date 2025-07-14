@@ -41,15 +41,17 @@ markerFolder: ./West_Coast/
 
 ## Confidential Links & Embeds: 
 
-### [West_Coast.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.public.md) 
+### [West_Coast](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/West_Coast.md) 
 
-### [West_Coast.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.internal.md) 
+### [West_Coast.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/West_Coast.public.md) 
 
-### [West_Coast.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.protect.md) 
+### [West_Coast.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/West_Coast.internal.md) 
 
-### [West_Coast.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.private.md) 
+### [West_Coast.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/West_Coast.protect.md) 
 
-### [West_Coast.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.personal.md) 
+### [West_Coast.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/West_Coast.private.md) 
 
-### [West_Coast.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandWest_Coast.secret.md)
+### [West_Coast.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/West_Coast.personal.md) 
+
+### [West_Coast.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/West_Coast.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Bay_of_Plenty_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Bay_of_Plenty_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Bay_of_Plenty_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Bay_of_Plenty_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Bay_of_Plenty_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_Zealand\Bay_of_Plenty_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.secret.md)
 

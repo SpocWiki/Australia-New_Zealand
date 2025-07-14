@@ -41,15 +41,17 @@ markerFolder: ./Marlborough_District/
 
 ## Confidential Links & Embeds: 
 
-### [Marlborough_District.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandMarlborough_District.public.md) 
+### [Marlborough_District](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Marlborough_District.md) 
 
-### [Marlborough_District.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandMarlborough_District.internal.md) 
+### [Marlborough_District.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Marlborough_District.public.md) 
 
-### [Marlborough_District.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandMarlborough_District.protect.md) 
+### [Marlborough_District.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Marlborough_District.internal.md) 
 
-### [Marlborough_District.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandMarlborough_District.private.md) 
+### [Marlborough_District.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Marlborough_District.protect.md) 
 
-### [Marlborough_District.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandMarlborough_District.personal.md) 
+### [Marlborough_District.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Marlborough_District.private.md) 
 
-### [Marlborough_District.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandMarlborough_District.secret.md)
+### [Marlborough_District.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Marlborough_District.personal.md) 
+
+### [Marlborough_District.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Marlborough_District.secret.md)
 

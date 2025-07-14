@@ -133,15 +133,17 @@ Capital :: [[Wellington]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Australia\New_ZealandReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Australasia/New_Zealand/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Australia\New_ZealandReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Australasia/New_Zealand/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Australia\New_ZealandReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Australasia/New_Zealand/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Australia\New_ZealandReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Australasia/New_Zealand/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Australia\New_ZealandReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Australasia/New_Zealand/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Australia\New_ZealandReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Australasia/New_Zealand/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Australasia/New_Zealand/ReadMe.secret.md)
 

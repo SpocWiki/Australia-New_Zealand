@@ -41,15 +41,17 @@ markerFolder: ./Manawatu-Wanganui/
 
 ## Confidential Links & Embeds: 
 
-### [Manawatu-Wanganui.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandManawatu-Wanganui.public.md) 
+### [Manawatu-Wanganui](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.md) 
 
-### [Manawatu-Wanganui.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandManawatu-Wanganui.internal.md) 
+### [Manawatu-Wanganui.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.public.md) 
 
-### [Manawatu-Wanganui.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandManawatu-Wanganui.protect.md) 
+### [Manawatu-Wanganui.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.internal.md) 
 
-### [Manawatu-Wanganui.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandManawatu-Wanganui.private.md) 
+### [Manawatu-Wanganui.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.protect.md) 
 
-### [Manawatu-Wanganui.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandManawatu-Wanganui.personal.md) 
+### [Manawatu-Wanganui.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.private.md) 
 
-### [Manawatu-Wanganui.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandManawatu-Wanganui.secret.md)
+### [Manawatu-Wanganui.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.personal.md) 
+
+### [Manawatu-Wanganui.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.secret.md)
 

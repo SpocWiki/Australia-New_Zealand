@@ -41,15 +41,17 @@ markerFolder: ./Campbell_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Campbell_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCampbell_Islands.public.md) 
+### [Campbell_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.md) 
 
-### [Campbell_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCampbell_Islands.internal.md) 
+### [Campbell_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.public.md) 
 
-### [Campbell_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCampbell_Islands.protect.md) 
+### [Campbell_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.internal.md) 
 
-### [Campbell_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCampbell_Islands.private.md) 
+### [Campbell_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.protect.md) 
 
-### [Campbell_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCampbell_Islands.personal.md) 
+### [Campbell_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.private.md) 
 
-### [Campbell_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandCampbell_Islands.secret.md)
+### [Campbell_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.personal.md) 
+
+### [Campbell_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.secret.md)
 

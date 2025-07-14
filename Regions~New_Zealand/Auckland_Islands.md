@@ -41,15 +41,17 @@ markerFolder: ./Auckland_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Auckland_Islands.public](/_public/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.public.md) 
+### [Auckland_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.md) 
 
-### [Auckland_Islands.internal](/_internal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.internal.md) 
+### [Auckland_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.public.md) 
 
-### [Auckland_Islands.protect](/_protect/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.protect.md) 
+### [Auckland_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.internal.md) 
 
-### [Auckland_Islands.private](/_private/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.private.md) 
+### [Auckland_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.protect.md) 
 
-### [Auckland_Islands.personal](/_personal/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.personal.md) 
+### [Auckland_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.private.md) 
 
-### [Auckland_Islands.secret](/_secret/\Earth\Continent\Australia\New_Zealand\Regions~New_ZealandAuckland_Islands.secret.md)
+### [Auckland_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.personal.md) 
+
+### [Auckland_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.secret.md)
 

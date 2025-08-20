@@ -1,35 +1,36 @@
 ---
 location:
-- -41.28
-- 174.78
+  - -41.28
+  - 174.78
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26988
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: New Zealand
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- New Zealand
-- Nueva Zelandia
-- Nouvelle-Zélande
-- نيوزيلندا
-- 新西兰
-- Новая Зеландия
+  - New Zealand
+  - Nueva Zelandia
+  - Nouvelle-Zélande
+  - نيوزيلندا
+  - 新西兰
+  - Новая Зеландия
 Languages:
-- en-NZ
-- mi
+  - en-NZ
+  - mi
 ---
 
 

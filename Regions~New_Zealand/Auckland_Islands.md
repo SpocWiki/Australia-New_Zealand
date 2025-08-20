@@ -1,30 +1,29 @@
 ---
-location: [ -50.9 , 166.1 ] 
+location:
+  - -50.9
+  - 166.1
 type: geo-Region
 title: Auckland_Islands
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Auckland_Islands
-
+  - Auckland_Islands
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Auckland_Islands

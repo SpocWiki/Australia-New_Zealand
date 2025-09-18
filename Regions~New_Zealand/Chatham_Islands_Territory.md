@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Chatham_Islands_Territory
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Chatham_Islands_Territory/
 markerFolder: ./Chatham_Islands_Territory/

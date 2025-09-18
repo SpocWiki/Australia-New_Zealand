@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Tasman_District
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tasman_District/
 markerFolder: ./Tasman_District/

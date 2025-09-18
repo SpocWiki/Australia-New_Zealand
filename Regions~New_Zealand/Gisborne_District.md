@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Gisborne_District
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gisborne_District/
 markerFolder: ./Gisborne_District/

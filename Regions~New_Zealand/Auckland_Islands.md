@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Auckland_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Auckland_Islands/
 markerFolder: ./Auckland_Islands/

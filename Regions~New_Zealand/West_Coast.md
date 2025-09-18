@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: West_Coast
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./West_Coast/
 markerFolder: ./West_Coast/

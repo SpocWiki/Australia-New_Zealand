@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Nelson_City
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nelson_City/
 markerFolder: ./Nelson_City/

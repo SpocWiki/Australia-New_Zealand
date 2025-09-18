@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: The_Snares
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./The_Snares/
 markerFolder: ./The_Snares/

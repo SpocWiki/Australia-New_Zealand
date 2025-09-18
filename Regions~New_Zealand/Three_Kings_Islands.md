@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Three_Kings_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Three_Kings_Islands/
 markerFolder: ./Three_Kings_Islands/

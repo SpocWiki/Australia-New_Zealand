@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kermadec_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kermadec_Islands/
 markerFolder: ./Kermadec_Islands/

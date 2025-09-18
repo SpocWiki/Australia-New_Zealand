@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Antipodes_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Antipodes_Islands/
 markerFolder: ./Antipodes_Islands/

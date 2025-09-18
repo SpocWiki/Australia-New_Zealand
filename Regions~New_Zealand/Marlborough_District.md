@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Marlborough_District
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Marlborough_District/
 markerFolder: ./Marlborough_District/

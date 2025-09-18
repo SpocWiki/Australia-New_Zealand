@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bounty_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bounty_Islands/
 markerFolder: ./Bounty_Islands/

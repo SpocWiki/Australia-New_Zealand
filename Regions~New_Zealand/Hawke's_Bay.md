@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Hawke's_Bay
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Hawke's_Bay/
 markerFolder: ./Hawke's_Bay/

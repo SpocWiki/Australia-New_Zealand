@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Manawatu-Wanganui
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Manawatu-Wanganui/
 markerFolder: ./Manawatu-Wanganui/

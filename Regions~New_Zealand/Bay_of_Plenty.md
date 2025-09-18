@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bay_of_Plenty
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bay_of_Plenty/
 markerFolder: ./Bay_of_Plenty/

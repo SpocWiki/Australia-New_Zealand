@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Gisborne_District
+# [[Gisborne_District]]
+
+## #has_/map 
 
 ```leaflet
 id: Gisborne_District

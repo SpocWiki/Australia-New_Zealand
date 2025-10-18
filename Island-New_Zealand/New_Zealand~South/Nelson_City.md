@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Nelson_City
+# [[Nelson_City]]
+
+## #has_/map 
 
 ```leaflet
 id: Nelson_City

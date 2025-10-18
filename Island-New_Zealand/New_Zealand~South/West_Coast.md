@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# West_Coast
+# [[West_Coast]]
+
+## #has_/map 
 
 ```leaflet
 id: West_Coast

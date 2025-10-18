@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Wellington
+# [[Wellington]]
+
+## #has_/map 
 
 ```leaflet
 id: Wellington

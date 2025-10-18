@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Canterbury
+# [[Canterbury]]
+
+## #has_/map 
 
 ```leaflet
 id: Canterbury

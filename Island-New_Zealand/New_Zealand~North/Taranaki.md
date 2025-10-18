@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Taranaki
+# [[Taranaki]]
+
+## #has_/map 
 
 ```leaflet
 id: Taranaki

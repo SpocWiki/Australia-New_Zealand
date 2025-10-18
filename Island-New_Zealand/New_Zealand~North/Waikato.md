@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Waikato
+# [[Waikato]]
+
+## #has_/map 
 
 ```leaflet
 id: Waikato

@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Auckland
+# [[Auckland]]
+
+## #has_/map 
 
 ```leaflet
 id: Auckland

@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Otago
+# [[Otago]]
+
+## #has_/map 
 
 ```leaflet
 id: Otago

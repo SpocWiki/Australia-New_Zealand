@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Manawatu-Wanganui
+# [[Manawatu-Wanganui]]
+
+## #has_/map 
 
 ```leaflet
 id: Manawatu-Wanganui

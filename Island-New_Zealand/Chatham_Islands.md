@@ -35,6 +35,9 @@ id: Chatham_Islands
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 4 
+coordinates: [[Chatham_Islands]] 
+markerFile: [[Chatham_Islands]] 
 geojsonFolder: ./Chatham_Islands/
 markerFolder: ./Chatham_Islands/
 ```

@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Bay_of_Plenty
+# [[Bay_of_Plenty]]
+
+## #has_/map 
 
 ```leaflet
 id: Bay_of_Plenty

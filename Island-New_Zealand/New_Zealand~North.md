@@ -9,7 +9,7 @@ has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~region_of_New_Zealand,216712]]"
   - "[[_Standards/WikiData/WD~district_health_board_of_New_Zealand,5283326]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from: "[[_Standards/WikiData/WD~North_Island,32300541]]"

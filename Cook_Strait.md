@@ -1,20 +1,21 @@
 ---
 aliases:
-  - Cook Strait 
+  - Cook Strait
   - Te Moana-o-Raukawa
+  - Cook_Strait
 has_id_wikidata: Q5023
 inflows:
-  - "[[_Standards/WikiData/WD~Awatere_River,791642]]"
-  - "[[_Standards/WikiData/WD~Opouawe_River,7098522]]"
-  - "[[_Standards/WikiData/WD~Ōterei_River,7108525]]"
-  - "[[_Standards/WikiData/WD~Whawanui_River,16903170]]"
+  - '[[_Standards/WikiData/WD~Awatere_River,791642]]'
+  - '[[_Standards/WikiData/WD~Opouawe_River,7098522]]'
+  - '[[_Standards/WikiData/WD~Ōterei_River,7108525]]'
+  - '[[_Standards/WikiData/WD~Whawanui_River,16903170]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-named_after: "[[_Standards/WikiData/WD~James_Cook,7324]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+named_after: '[[_Standards/WikiData/WD~James_Cook,7324]]'
 elevation_above_sea_level: 0
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
 native_label: Cook Strait
 coordinate_location: Point(174.483055555 -41.229444444)
 Commons_gallery: Cook Strait

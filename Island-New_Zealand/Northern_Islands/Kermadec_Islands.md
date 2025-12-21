@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kermadec_Islands
+  - Kermadec Islands
 location:
   - -29.26
   - 182.11
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kermadec_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Kermadec_Islands]]

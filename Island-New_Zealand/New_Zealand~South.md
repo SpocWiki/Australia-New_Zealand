@@ -3,24 +3,26 @@ aliases:
   - South_Island
   - South Island
   - Te Waipounamu
+  - New_Zealand~South
+  - New Zealand~South
 has_id_wikidata: Q120755
-different_from: "[[_Standards/WikiData/WD~Southland_Region,864971]]"
+different_from: '[[_Standards/WikiData/WD~Southland_Region,864971]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 coordinates_of_southernmost_point: Point(169.001666666 -46.675277777)
-continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
-named_after: "[[_Standards/WikiData/WD~south,667]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-part_of: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-highest_point: "[[_Standards/WikiData/WD~Aoraki_Mount_Cook,5059]]"
+continent: '[[_Standards/WikiData/WD~Insular_Oceania,538]]'
+named_after: '[[_Standards/WikiData/WD~south,667]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+part_of: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+highest_point: '[[_Standards/WikiData/WD~Aoraki_Mount_Cook,5059]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
-  - "[[_Standards/WikiData/WD~UTC+13_00,7118]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Tasman_Sea,33254]]"
+  - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+  - '[[_Standards/WikiData/WD~UTC+13_00,7118]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Tasman_Sea,33254]]'
 population: 1115800
 area: 150437
 coordinates_of_easternmost_point: Point(174.315 -40.995277777)

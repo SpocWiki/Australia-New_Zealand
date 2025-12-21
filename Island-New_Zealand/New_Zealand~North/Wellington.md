@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Wellington
 has_id_wikidata: Q23661
 location:
   - -41.2
@@ -13,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Wellington
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Wellington]] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Three_Kings_Islands
+  - Three Kings Islands
 location:
   - -34.16
   - 172.14
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Three_Kings_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Three_Kings_Islands]]

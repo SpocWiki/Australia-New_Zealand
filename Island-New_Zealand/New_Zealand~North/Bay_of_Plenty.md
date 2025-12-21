@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bay_of_Plenty
+  - Bay of Plenty
 location:
   - -38.3
   - 176.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bay_of_Plenty
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Bay_of_Plenty]]

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Marlborough_District
+  - Marlborough District
 location:
   - -41.7
   - 173.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Marlborough_District
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Marlborough_District]]

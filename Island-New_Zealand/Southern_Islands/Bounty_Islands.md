@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bounty_Islands
+  - Bounty Islands
 location:
   - -47.698
   - 179.056
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bounty_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Bounty_Islands]]

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Manawatu-Wanganui
 location:
   - -39.7
   - 175.6
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Manawatu-Wanganui
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Manawatu-Wanganui]]

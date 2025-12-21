@@ -1,4 +1,12 @@
 ---
+aliases:
+  - New Zealand
+  - Nueva Zelandia
+  - Nouvelle-Zélande
+  - نيوزيلندا
+  - 新西兰
+  - Новая Зеландия
+  - ReadMe
 location:
   - -41.28
   - 174.78
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: New Zealand
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - New Zealand
-  - Nueva Zelandia
-  - Nouvelle-Zélande
-  - نيوزيلندا
-  - 新西兰
-  - Новая Зеландия
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-NZ
   - mi

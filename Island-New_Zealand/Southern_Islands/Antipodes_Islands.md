@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Antipodes_Islands
+  - Antipodes Islands
 location:
   - -49.7
   - 178.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Antipodes_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Antipodes_Islands]]

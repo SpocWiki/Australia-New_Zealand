@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Hawke's_Bay
+  - Hawke's Bay
 location:
   - -39.5
   - 176.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Hawke's_Bay
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Hawke's_Bay

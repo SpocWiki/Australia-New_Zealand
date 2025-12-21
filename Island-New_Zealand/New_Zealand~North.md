@@ -3,28 +3,30 @@ aliases:
   - North_Island
   - North Island
   - Te Ika-a-Māui
+  - New_Zealand~North
+  - New Zealand~North
 has_id_wikidata: Q118863
-highest_point: "[[_Standards/WikiData/WD~Mount_Ruapehu,207284]]"
+highest_point: '[[_Standards/WikiData/WD~Mount_Ruapehu,207284]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~region_of_New_Zealand,216712]]"
-  - "[[_Standards/WikiData/WD~district_health_board_of_New_Zealand,5283326]]"
+  - '[[_Standards/WikiData/WD~region_of_New_Zealand,216712]]'
+  - '[[_Standards/WikiData/WD~district_health_board_of_New_Zealand,5283326]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~North_Island,32300541]]"
-continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
-named_after: "[[_Standards/WikiData/WD~north,659]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-part_of: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~North_Island,32300541]]'
+continent: '[[_Standards/WikiData/WD~Insular_Oceania,538]]'
+named_after: '[[_Standards/WikiData/WD~north,659]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+part_of: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
-  - "[[_Standards/WikiData/WD~UTC+13_00,7118]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-language_used: "[[_Standards/WikiData/WD~Māori,36451]]"
+  - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+  - '[[_Standards/WikiData/WD~UTC+13_00,7118]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+language_used: '[[_Standards/WikiData/WD~Māori,36451]]'
 elevation_above_sea_level: 2797
 population: 3519800
 area: 113729

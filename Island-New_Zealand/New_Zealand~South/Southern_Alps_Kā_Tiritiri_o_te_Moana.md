@@ -4,16 +4,18 @@ aliases:
   - Kā_Tiritiri_o_te_Moana
   - Southern Alps
   - Kā Tiritiri o te Moana
+  - Southern_Alps_Kā_Tiritiri_o_te_Moana
+  - Southern Alps Kā Tiritiri o te Moana
 has_id_wikidata: Q206650
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Island,120755]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mackenzie_District,1760822]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Aoraki_Mount_Cook_National_Park,1950336]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_Island,120755]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Mackenzie_District,1760822]]'
+located_in_protected_area: '[[_Standards/WikiData/WD~Aoraki_Mount_Cook_National_Park,1950336]]'
 described_by_source: "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 coordinate_location: Point(170.624 -43.365)
-country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-highest_point: "[[_Standards/WikiData/WD~Aoraki_Mount_Cook,5059]]"
+country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+highest_point: '[[_Standards/WikiData/WD~Aoraki_Mount_Cook,5059]]'
 length: 500
-instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+instance_of: '[[_Standards/WikiData/WD~mountain_range,46831]]'
 elevation_above_sea_level: 3754
 Commons_gallery: Southern Alps
 Commons_category: Southern Alps

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 174.78
 dv_has_place_latitude: -41.28
-dv_name: Wellington
+dv_has_name_: Wellington
 dv_Country: "[[../../../../../New_Zealand]]"
 ---
 #is_a_/Place  

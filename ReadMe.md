@@ -40,15 +40,15 @@ dv_ISO4217-currency_country_name: NEW ZEALAND
 dv_Telephone: 64
 dv_Global: true
 dv_Global_Name: World
-dv_name: New Zealand
-dv_name-en:
+dv_has_name_: New Zealand
+dv_has_name_en:
   - New Zealand
   - New Zealand
-dv_name-es: Nueva Zelandia
-dv_name-fr: Nouvelle-Zélande
-dv_name-cn: 新西兰
-dv_name-ar: نيوزيلندا
-dv_name-ru: Новая Зеландия
+dv_has_name_es: Nueva Zelandia
+dv_has_name_fr: Nouvelle-Zélande
+dv_has_name_cn: 新西兰
+dv_has_name_ar: نيوزيلندا
+dv_has_name_ru: Новая Зеландия
 dv_CLDR_display_name: New Zealand
 dv_UNTERM_English: New Zealand
 dv_UNTERM_English_Formal: New Zealand
@@ -85,7 +85,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 554
 dv_ISO2: NZ
 dv_ISO3: NZL
-dv_name-de: Neuseeland
+dv_has_name_de: Neuseeland
 dv_Area-Total: 270534
 dv_Area-Land: 267990
 dv_Continent: "[[../Australia]]"
@@ -112,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: New Zealand ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: New Zealand ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -176,8 +176,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::New Zealand] 
-name-de = `=this.dv_name-de` 
+[has_name_en::New Zealand] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

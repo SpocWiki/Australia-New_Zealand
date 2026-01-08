@@ -43,17 +43,17 @@ markerFolder: ./Kermadec_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Kermadec_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Kermadec_Islands|Kermadec_Islands]] 
 
-### [Kermadec_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Kermadec_Islands.public|Kermadec_Islands.public]] 
 
-### [Kermadec_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Kermadec_Islands.internal|Kermadec_Islands.internal]] 
 
-### [Kermadec_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Kermadec_Islands.protect|Kermadec_Islands.protect]] 
 
-### [Kermadec_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Kermadec_Islands.private|Kermadec_Islands.private]] 
 
-### [Kermadec_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Kermadec_Islands.personal|Kermadec_Islands.personal]] 
 
-### [Kermadec_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Kermadec_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Kermadec_Islands.secret|Kermadec_Islands.secret]] 
 

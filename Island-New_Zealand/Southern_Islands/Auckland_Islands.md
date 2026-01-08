@@ -43,17 +43,17 @@ markerFolder: ./Auckland_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Auckland_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Auckland_Islands|Auckland_Islands]] 
 
-### [Auckland_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Auckland_Islands.public|Auckland_Islands.public]] 
 
-### [Auckland_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Auckland_Islands.internal|Auckland_Islands.internal]] 
 
-### [Auckland_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Auckland_Islands.protect|Auckland_Islands.protect]] 
 
-### [Auckland_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Auckland_Islands.private|Auckland_Islands.private]] 
 
-### [Auckland_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Auckland_Islands.personal|Auckland_Islands.personal]] 
 
-### [Auckland_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Auckland_Islands.secret|Auckland_Islands.secret]] 
 

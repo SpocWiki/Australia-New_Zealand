@@ -43,17 +43,17 @@ markerFolder: ./Bounty_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Bounty_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Bounty_Islands|Bounty_Islands]] 
 
-### [Bounty_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Bounty_Islands.public|Bounty_Islands.public]] 
 
-### [Bounty_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Bounty_Islands.internal|Bounty_Islands.internal]] 
 
-### [Bounty_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Bounty_Islands.protect|Bounty_Islands.protect]] 
 
-### [Bounty_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Bounty_Islands.private|Bounty_Islands.private]] 
 
-### [Bounty_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Bounty_Islands.personal|Bounty_Islands.personal]] 
 
-### [Bounty_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bounty_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Bounty_Islands.secret|Bounty_Islands.secret]] 
 

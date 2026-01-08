@@ -43,17 +43,17 @@ markerFolder: ./Gisborne_District/
 
 ## Confidential Links & Embeds: 
 
-### [Gisborne_District](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Gisborne_District.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Gisborne_District|Gisborne_District]] 
 
-### [Gisborne_District.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Gisborne_District.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Gisborne_District.public|Gisborne_District.public]] 
 
-### [Gisborne_District.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Gisborne_District.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Gisborne_District.internal|Gisborne_District.internal]] 
 
-### [Gisborne_District.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Gisborne_District.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Gisborne_District.protect|Gisborne_District.protect]] 
 
-### [Gisborne_District.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Gisborne_District.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Gisborne_District.private|Gisborne_District.private]] 
 
-### [Gisborne_District.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Gisborne_District.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Gisborne_District.personal|Gisborne_District.personal]] 
 
-### [Gisborne_District.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Gisborne_District.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Gisborne_District.secret|Gisborne_District.secret]] 
 

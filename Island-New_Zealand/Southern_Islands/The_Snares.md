@@ -43,17 +43,17 @@ markerFolder: ./The_Snares/
 
 ## Confidential Links & Embeds: 
 
-### [The_Snares](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/The_Snares.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/The_Snares|The_Snares]] 
 
-### [The_Snares.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/The_Snares.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/The_Snares.public|The_Snares.public]] 
 
-### [The_Snares.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/The_Snares.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/The_Snares.internal|The_Snares.internal]] 
 
-### [The_Snares.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/The_Snares.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/The_Snares.protect|The_Snares.protect]] 
 
-### [The_Snares.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/The_Snares.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/The_Snares.private|The_Snares.private]] 
 
-### [The_Snares.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/The_Snares.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/The_Snares.personal|The_Snares.personal]] 
 
-### [The_Snares.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/The_Snares.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/The_Snares.secret|The_Snares.secret]] 
 

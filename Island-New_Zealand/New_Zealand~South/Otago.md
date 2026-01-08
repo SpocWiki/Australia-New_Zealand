@@ -42,17 +42,17 @@ markerFolder: ./Otago/
 
 ## Confidential Links & Embeds: 
 
-### [Otago](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Otago|Otago]] 
 
-### [Otago.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Otago.public|Otago.public]] 
 
-### [Otago.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Otago.internal|Otago.internal]] 
 
-### [Otago.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Otago.protect|Otago.protect]] 
 
-### [Otago.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Otago.private|Otago.private]] 
 
-### [Otago.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Otago.personal|Otago.personal]] 
 
-### [Otago.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Otago.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Otago.secret|Otago.secret]] 
 

@@ -42,17 +42,17 @@ markerFolder: ./Taranaki/
 
 ## Confidential Links & Embeds: 
 
-### [Taranaki](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Taranaki|Taranaki]] 
 
-### [Taranaki.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Taranaki.public|Taranaki.public]] 
 
-### [Taranaki.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Taranaki.internal|Taranaki.internal]] 
 
-### [Taranaki.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Taranaki.protect|Taranaki.protect]] 
 
-### [Taranaki.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Taranaki.private|Taranaki.private]] 
 
-### [Taranaki.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Taranaki.personal|Taranaki.personal]] 
 
-### [Taranaki.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Taranaki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Taranaki.secret|Taranaki.secret]] 
 

@@ -42,17 +42,17 @@ markerFolder: ./Southland/
 
 ## Confidential Links & Embeds: 
 
-### [Southland](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland|Southland]] 
 
-### [Southland.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland.public|Southland.public]] 
 
-### [Southland.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland.internal|Southland.internal]] 
 
-### [Southland.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland.protect|Southland.protect]] 
 
-### [Southland.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland.private|Southland.private]] 
 
-### [Southland.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland.personal|Southland.personal]] 
 
-### [Southland.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Southland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland.secret|Southland.secret]] 
 

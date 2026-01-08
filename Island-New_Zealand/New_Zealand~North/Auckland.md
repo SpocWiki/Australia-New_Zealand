@@ -42,17 +42,17 @@ markerFolder: ./Auckland/
 
 ## Confidential Links & Embeds: 
 
-### [Auckland](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Auckland|Auckland]] 
 
-### [Auckland.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Auckland.public|Auckland.public]] 
 
-### [Auckland.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Auckland.internal|Auckland.internal]] 
 
-### [Auckland.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Auckland.protect|Auckland.protect]] 
 
-### [Auckland.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Auckland.private|Auckland.private]] 
 
-### [Auckland.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Auckland.personal|Auckland.personal]] 
 
-### [Auckland.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Auckland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Auckland.secret|Auckland.secret]] 
 

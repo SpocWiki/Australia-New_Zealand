@@ -42,17 +42,17 @@ markerFolder: ./Waikato/
 
 ## Confidential Links & Embeds: 
 
-### [Waikato](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Waikato.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Waikato|Waikato]] 
 
-### [Waikato.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Waikato.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Waikato.public|Waikato.public]] 
 
-### [Waikato.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Waikato.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Waikato.internal|Waikato.internal]] 
 
-### [Waikato.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Waikato.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Waikato.protect|Waikato.protect]] 
 
-### [Waikato.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Waikato.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Waikato.private|Waikato.private]] 
 
-### [Waikato.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Waikato.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Waikato.personal|Waikato.personal]] 
 
-### [Waikato.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Waikato.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Waikato.secret|Waikato.secret]] 
 

@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q575398
-location: [ -45.036, 167.32]
+location:
+  - -45.036
+  - 167.32
 coordinate_location: Point(167.32 -45.036)
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Southland_Region,864971]]"
 has_part_s_:
@@ -19,11 +21,14 @@ heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
 area: 2600000
 Commons_category: Te Wahipounamu
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MilfordSound.jpg
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Te_Wahipounamu,575398|WD~Te_Wahipounamu,575398]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Te_Wahipounamu,575398|WD~Te_Wahipounamu,575398]]"
 ---
 
 # [[Te_Wahipounamu]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Te_Wahipounamu,575398|WD~Te_Wahipounamu,575398]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -42,4 +47,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/MilfordSound.jpg
 > one of the reasons for its listing as a World Heritage site.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Te%20Wahipounamu) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland/Te_Wahipounamu|Te_Wahipounamu]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland/Te_Wahipounamu.public|Te_Wahipounamu.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland/Te_Wahipounamu.internal|Te_Wahipounamu.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland/Te_Wahipounamu.protect|Te_Wahipounamu.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland/Te_Wahipounamu.private|Te_Wahipounamu.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland/Te_Wahipounamu.personal|Te_Wahipounamu.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southland/Te_Wahipounamu.secret|Te_Wahipounamu.secret]] 
 

@@ -42,17 +42,17 @@ markerFolder: ./Canterbury/
 
 ## Confidential Links & Embeds: 
 
-### [Canterbury](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Canterbury.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Canterbury|Canterbury]] 
 
-### [Canterbury.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Canterbury.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Canterbury.public|Canterbury.public]] 
 
-### [Canterbury.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Canterbury.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Canterbury.internal|Canterbury.internal]] 
 
-### [Canterbury.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Canterbury.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Canterbury.protect|Canterbury.protect]] 
 
-### [Canterbury.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Canterbury.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Canterbury.private|Canterbury.private]] 
 
-### [Canterbury.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Canterbury.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Canterbury.personal|Canterbury.personal]] 
 
-### [Canterbury.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Canterbury.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Canterbury.secret|Canterbury.secret]] 
 

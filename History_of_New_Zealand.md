@@ -11,11 +11,14 @@ country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
 Dewey_Decimal_Classification: "993"
 Commons_category: History of New Zealand
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1863%20Meeting%20of%20Settlers%20and%20Maoris%20at%20Hawke%27s%20Bay%2C%20New%20Zealand%20-%20Right.png
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~History_of_New_Zealand,672551]]"
+dv_is_same_as: "[[../../../../WikiData/WD~History_of_New_Zealand,672551]]"
 ---
 
 # [[History_of_New_Zealand]] 
 
-#is_/same_as :: [[WD~History_of_New_Zealand,672551]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -69,4 +72,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/1863%20Meeting%20of%20
 > The country's economy suffered in the aftermath of the 1973 global energy crisis, the loss of New Zealand's biggest export market upon Britain's entry to the European Economic Community, and rampant inflation. In 1984, the Fourth Labour Government was elected amid a constitutional and economic crisis. The interventionist policies of the Third National Government were replaced by Rogernomics, a commitment to a free-market economy. Foreign policy after 1984 became more independent, especially in pushing for a nuclear-free zone. Subsequent governments have generally maintained these policies, although tempering the free market ethos somewhat.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20New%20Zealand) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/History_of_New_Zealand|History_of_New_Zealand]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/History_of_New_Zealand.public|History_of_New_Zealand.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/History_of_New_Zealand.internal|History_of_New_Zealand.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/History_of_New_Zealand.protect|History_of_New_Zealand.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/History_of_New_Zealand.private|History_of_New_Zealand.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/History_of_New_Zealand.personal|History_of_New_Zealand.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/History_of_New_Zealand.secret|History_of_New_Zealand.secret]] 
 

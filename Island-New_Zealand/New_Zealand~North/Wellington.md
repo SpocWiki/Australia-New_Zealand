@@ -20,16 +20,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Wellington,23661|WD~Wellington,23661]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Wellington,23661|WD~Wellington,23661]]"
 ---
 
 # [[Wellington]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Wellington,23661|WD~Wellington,23661]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -69,17 +72,17 @@ markerFolder: ./Wellington/
 
 ## Confidential Links & Embeds: 
 
-### [Wellington](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington|Wellington]] 
 
-### [Wellington.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington.public|Wellington.public]] 
 
-### [Wellington.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington.internal|Wellington.internal]] 
 
-### [Wellington.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington.protect|Wellington.protect]] 
 
-### [Wellington.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington.private|Wellington.private]] 
 
-### [Wellington.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington.personal|Wellington.personal]] 
 
-### [Wellington.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington.secret|Wellington.secret]] 
 

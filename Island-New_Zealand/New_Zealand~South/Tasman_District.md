@@ -43,17 +43,17 @@ markerFolder: ./Tasman_District/
 
 ## Confidential Links & Embeds: 
 
-### [Tasman_District](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Tasman_District|Tasman_District]] 
 
-### [Tasman_District.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Tasman_District.public|Tasman_District.public]] 
 
-### [Tasman_District.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Tasman_District.internal|Tasman_District.internal]] 
 
-### [Tasman_District.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Tasman_District.protect|Tasman_District.protect]] 
 
-### [Tasman_District.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Tasman_District.private|Tasman_District.private]] 
 
-### [Tasman_District.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Tasman_District.personal|Tasman_District.personal]] 
 
-### [Tasman_District.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tasman_District.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Tasman_District.secret|Tasman_District.secret]] 
 

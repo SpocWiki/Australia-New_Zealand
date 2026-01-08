@@ -43,17 +43,17 @@ markerFolder: ./Campbell_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Campbell_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Campbell_Islands|Campbell_Islands]] 
 
-### [Campbell_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Campbell_Islands.public|Campbell_Islands.public]] 
 
-### [Campbell_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Campbell_Islands.internal|Campbell_Islands.internal]] 
 
-### [Campbell_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Campbell_Islands.protect|Campbell_Islands.protect]] 
 
-### [Campbell_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Campbell_Islands.private|Campbell_Islands.private]] 
 
-### [Campbell_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Campbell_Islands.personal|Campbell_Islands.personal]] 
 
-### [Campbell_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Campbell_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Campbell_Islands.secret|Campbell_Islands.secret]] 
 

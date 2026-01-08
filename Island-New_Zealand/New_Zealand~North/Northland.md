@@ -42,17 +42,17 @@ markerFolder: ./Northland/
 
 ## Confidential Links & Embeds: 
 
-### [Northland](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Northland|Northland]] 
 
-### [Northland.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Northland.public|Northland.public]] 
 
-### [Northland.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Northland.internal|Northland.internal]] 
 
-### [Northland.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Northland.protect|Northland.protect]] 
 
-### [Northland.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Northland.private|Northland.private]] 
 
-### [Northland.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Northland.personal|Northland.personal]] 
 
-### [Northland.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Northland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Northland.secret|Northland.secret]] 
 

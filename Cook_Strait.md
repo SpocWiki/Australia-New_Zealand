@@ -5,28 +5,31 @@ aliases:
   - Cook_Strait
 has_id_wikidata: Q5023
 inflows:
-  - '[[_Standards/WikiData/WD~Awatere_River,791642]]'
-  - '[[_Standards/WikiData/WD~Opouawe_River,7098522]]'
-  - '[[_Standards/WikiData/WD~Ōterei_River,7108525]]'
-  - '[[_Standards/WikiData/WD~Whawanui_River,16903170]]'
+  - "[[_Standards/WikiData/WD~Awatere_River,791642]]"
+  - "[[_Standards/WikiData/WD~Opouawe_River,7098522]]"
+  - "[[_Standards/WikiData/WD~Ōterei_River,7108525]]"
+  - "[[_Standards/WikiData/WD~Whawanui_River,16903170]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
-named_after: '[[_Standards/WikiData/WD~James_Cook,7324]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
+named_after: "[[_Standards/WikiData/WD~James_Cook,7324]]"
 elevation_above_sea_level: 0
-instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
+instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
 native_label: Cook Strait
 coordinate_location: Point(174.483055555 -41.229444444)
 Commons_gallery: Cook Strait
 Commons_category: Cook Strait
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cook%20Strait%20and%20Marlborough%20Sounds%20from%20Mount%20Kaukau.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cook%20Strait%20Ferries%20banner%20Interislander%20and%20Bluebridge%20at%20Picton.jpg
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Cook_Strait,5023|WD~Cook_Strait,5023]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Cook_Strait,5023|WD~Cook_Strait,5023]]"
 ---
 
 # [[Cook_Strait]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cook_Strait,5023|WD~Cook_Strait,5023]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -51,4 +54,21 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cook%20Strait%20
 > the Lastingham in 1884, SS Penguin in 1909 and TEV Wahine in 1968.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cook%20Strait) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Cook_Strait|Cook_Strait]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Cook_Strait.public|Cook_Strait.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Cook_Strait.internal|Cook_Strait.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Cook_Strait.protect|Cook_Strait.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Cook_Strait.private|Cook_Strait.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Cook_Strait.personal|Cook_Strait.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Cook_Strait.secret|Cook_Strait.secret]] 
 

@@ -7,15 +7,15 @@ aliases:
   - Southern_Alps_Kā_Tiritiri_o_te_Moana
   - Southern Alps Kā Tiritiri o te Moana
 has_id_wikidata: Q206650
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_Island,120755]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Mackenzie_District,1760822]]'
-located_in_protected_area: '[[_Standards/WikiData/WD~Aoraki_Mount_Cook_National_Park,1950336]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Island,120755]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mackenzie_District,1760822]]"
+located_in_protected_area: "[[_Standards/WikiData/WD~Aoraki_Mount_Cook_National_Park,1950336]]"
 described_by_source: "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 coordinate_location: Point(170.624 -43.365)
-country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
-highest_point: '[[_Standards/WikiData/WD~Aoraki_Mount_Cook,5059]]'
+country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
+highest_point: "[[_Standards/WikiData/WD~Aoraki_Mount_Cook,5059]]"
 length: 500
-instance_of: '[[_Standards/WikiData/WD~mountain_range,46831]]'
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
 elevation_above_sea_level: 3754
 Commons_gallery: Southern Alps
 Commons_category: Southern Alps
@@ -24,11 +24,14 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Southernalpsbann
 native_label:
   - Southern Alps
   - Kā Tiritiri o te Moana
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Southern_Alps_Kā_Tiritiri_o_te_Moana,206650|WD~Southern_Alps_Kā_Tiritiri_o_te_Moana,206650]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Southern_Alps_Kā_Tiritiri_o_te_Moana,206650|WD~Southern_Alps_Kā_Tiritiri_o_te_Moana,206650]]"
 ---
 
 # [[Southern_Alps_Kā_Tiritiri_o_te_Moana]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Southern_Alps_Kā_Tiritiri_o_te_Moana,206650|WD~Southern_Alps_Kā_Tiritiri_o_te_Moana,206650]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -49,4 +52,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Southern%20Alps) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southern_Alps_Kā_Tiritiri_o_te_Moana|Southern_Alps_Kā_Tiritiri_o_te_Moana]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southern_Alps_Kā_Tiritiri_o_te_Moana.public|Southern_Alps_Kā_Tiritiri_o_te_Moana.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southern_Alps_Kā_Tiritiri_o_te_Moana.internal|Southern_Alps_Kā_Tiritiri_o_te_Moana.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southern_Alps_Kā_Tiritiri_o_te_Moana.protect|Southern_Alps_Kā_Tiritiri_o_te_Moana.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southern_Alps_Kā_Tiritiri_o_te_Moana.private|Southern_Alps_Kā_Tiritiri_o_te_Moana.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southern_Alps_Kā_Tiritiri_o_te_Moana.personal|Southern_Alps_Kā_Tiritiri_o_te_Moana.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Southern_Alps_Kā_Tiritiri_o_te_Moana.secret|Southern_Alps_Kā_Tiritiri_o_te_Moana.secret]] 
 

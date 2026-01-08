@@ -42,17 +42,17 @@ markerFolder: ./Tokelau/
 
 ## Confidential Links & Embeds: 
 
-### [Tokelau](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tokelau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau|Tokelau]] 
 
-### [Tokelau.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tokelau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau.public|Tokelau.public]] 
 
-### [Tokelau.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tokelau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau.internal|Tokelau.internal]] 
 
-### [Tokelau.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tokelau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau.protect|Tokelau.protect]] 
 
-### [Tokelau.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tokelau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau.private|Tokelau.private]] 
 
-### [Tokelau.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tokelau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau.personal|Tokelau.personal]] 
 
-### [Tokelau.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Tokelau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau.secret|Tokelau.secret]] 
 

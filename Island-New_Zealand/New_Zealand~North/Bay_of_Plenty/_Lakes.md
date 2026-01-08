@@ -41,17 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty/_Lakes|_Lakes]] 
 
-### [_Lakes.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty/_Lakes.public|_Lakes.public]] 
 
-### [_Lakes.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty/_Lakes.internal|_Lakes.internal]] 
 
-### [_Lakes.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty/_Lakes.protect|_Lakes.protect]] 
 
-### [_Lakes.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty/_Lakes.private|_Lakes.private]] 
 
-### [_Lakes.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty/_Lakes.personal|_Lakes.personal]] 
 
-### [_Lakes.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty/_Lakes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty/_Lakes.secret|_Lakes.secret]] 
 

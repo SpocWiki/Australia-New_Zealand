@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35530
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 174.78
+dv_has_place_latitude: -41.28
+dv_name: Wellington
+dv_Country: "[[../../../../../New_Zealand]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::174.78] 
-[has_place_latitude::-41.28] 
-[name::Wellington] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[New_Zealand]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wellington](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington/City/Wellington|Wellington]] 
 
-### [Wellington.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington/City/Wellington.public|Wellington.public]] 
 
-### [Wellington.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington/City/Wellington.internal|Wellington.internal]] 
 
-### [Wellington.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington/City/Wellington.protect|Wellington.protect]] 
 
-### [Wellington.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington/City/Wellington.private|Wellington.private]] 
 
-### [Wellington.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington/City/Wellington.personal|Wellington.personal]] 
 
-### [Wellington.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Wellington/City/Wellington.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Wellington/City/Wellington.secret|Wellington.secret]] 
 

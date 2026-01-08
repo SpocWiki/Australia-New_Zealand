@@ -43,17 +43,17 @@ markerFolder: ./Nelson_City/
 
 ## Confidential Links & Embeds: 
 
-### [Nelson_City](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Nelson_City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Nelson_City|Nelson_City]] 
 
-### [Nelson_City.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Nelson_City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Nelson_City.public|Nelson_City.public]] 
 
-### [Nelson_City.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Nelson_City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Nelson_City.internal|Nelson_City.internal]] 
 
-### [Nelson_City.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Nelson_City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Nelson_City.protect|Nelson_City.protect]] 
 
-### [Nelson_City.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Nelson_City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Nelson_City.private|Nelson_City.private]] 
 
-### [Nelson_City.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Nelson_City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Nelson_City.personal|Nelson_City.personal]] 
 
-### [Nelson_City.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Nelson_City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~South/Nelson_City.secret|Nelson_City.secret]] 
 

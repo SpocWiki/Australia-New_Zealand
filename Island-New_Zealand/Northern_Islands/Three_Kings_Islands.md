@@ -43,17 +43,17 @@ markerFolder: ./Three_Kings_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Three_Kings_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Three_Kings_Islands|Three_Kings_Islands]] 
 
-### [Three_Kings_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Three_Kings_Islands.public|Three_Kings_Islands.public]] 
 
-### [Three_Kings_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Three_Kings_Islands.internal|Three_Kings_Islands.internal]] 
 
-### [Three_Kings_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Three_Kings_Islands.protect|Three_Kings_Islands.protect]] 
 
-### [Three_Kings_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Three_Kings_Islands.private|Three_Kings_Islands.private]] 
 
-### [Three_Kings_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Three_Kings_Islands.personal|Three_Kings_Islands.personal]] 
 
-### [Three_Kings_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Three_Kings_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Northern_Islands/Three_Kings_Islands.secret|Three_Kings_Islands.secret]] 
 

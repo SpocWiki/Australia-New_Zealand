@@ -41,17 +41,17 @@ markerFolder: ./Hawke's_Bay/
 
 ## Confidential Links & Embeds: 
 
-### [Hawke's_Bay](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Hawke's_Bay|Hawke's_Bay]] 
 
-### [Hawke's_Bay.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Hawke's_Bay.public|Hawke's_Bay.public]] 
 
-### [Hawke's_Bay.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Hawke's_Bay.internal|Hawke's_Bay.internal]] 
 
-### [Hawke's_Bay.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Hawke's_Bay.protect|Hawke's_Bay.protect]] 
 
-### [Hawke's_Bay.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Hawke's_Bay.private|Hawke's_Bay.private]] 
 
-### [Hawke's_Bay.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Hawke's_Bay.personal|Hawke's_Bay.personal]] 
 
-### [Hawke's_Bay.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Hawke's_Bay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Hawke's_Bay.secret|Hawke's_Bay.secret]] 
 

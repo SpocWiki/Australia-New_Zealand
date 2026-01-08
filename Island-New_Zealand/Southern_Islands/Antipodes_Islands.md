@@ -43,17 +43,17 @@ markerFolder: ./Antipodes_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Antipodes_Islands](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Antipodes_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Antipodes_Islands|Antipodes_Islands]] 
 
-### [Antipodes_Islands.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Antipodes_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Antipodes_Islands.public|Antipodes_Islands.public]] 
 
-### [Antipodes_Islands.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Antipodes_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Antipodes_Islands.internal|Antipodes_Islands.internal]] 
 
-### [Antipodes_Islands.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Antipodes_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Antipodes_Islands.protect|Antipodes_Islands.protect]] 
 
-### [Antipodes_Islands.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Antipodes_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Antipodes_Islands.private|Antipodes_Islands.private]] 
 
-### [Antipodes_Islands.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Antipodes_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Antipodes_Islands.personal|Antipodes_Islands.personal]] 
 
-### [Antipodes_Islands.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Antipodes_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Southern_Islands/Antipodes_Islands.secret|Antipodes_Islands.secret]] 
 

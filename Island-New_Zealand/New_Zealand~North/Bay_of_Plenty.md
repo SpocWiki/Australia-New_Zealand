@@ -43,17 +43,17 @@ markerFolder: ./Bay_of_Plenty/
 
 ## Confidential Links & Embeds: 
 
-### [Bay_of_Plenty](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty|Bay_of_Plenty]] 
 
-### [Bay_of_Plenty.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty.public|Bay_of_Plenty.public]] 
 
-### [Bay_of_Plenty.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty.internal|Bay_of_Plenty.internal]] 
 
-### [Bay_of_Plenty.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty.protect|Bay_of_Plenty.protect]] 
 
-### [Bay_of_Plenty.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty.private|Bay_of_Plenty.private]] 
 
-### [Bay_of_Plenty.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty.personal|Bay_of_Plenty.personal]] 
 
-### [Bay_of_Plenty.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Bay_of_Plenty.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Bay_of_Plenty.secret|Bay_of_Plenty.secret]] 
 

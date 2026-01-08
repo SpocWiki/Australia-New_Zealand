@@ -42,17 +42,17 @@ markerFolder: ./Manawatu-Wanganui/
 
 ## Confidential Links & Embeds: 
 
-### [Manawatu-Wanganui](/_Standards/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Manawatu-Wanganui|Manawatu-Wanganui]] 
 
-### [Manawatu-Wanganui.public](/_public/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Manawatu-Wanganui.public|Manawatu-Wanganui.public]] 
 
-### [Manawatu-Wanganui.internal](/_internal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Manawatu-Wanganui.internal|Manawatu-Wanganui.internal]] 
 
-### [Manawatu-Wanganui.protect](/_protect/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Manawatu-Wanganui.protect|Manawatu-Wanganui.protect]] 
 
-### [Manawatu-Wanganui.private](/_private/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Manawatu-Wanganui.private|Manawatu-Wanganui.private]] 
 
-### [Manawatu-Wanganui.personal](/_personal/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Manawatu-Wanganui.personal|Manawatu-Wanganui.personal]] 
 
-### [Manawatu-Wanganui.secret](/_secret/Earth/Continent/Australasia/New_Zealand/Regions~New_Zealand/Manawatu-Wanganui.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/New_Zealand~North/Manawatu-Wanganui.secret|Manawatu-Wanganui.secret]] 
 

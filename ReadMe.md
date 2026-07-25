@@ -337,7 +337,7 @@ demonym:
 - neozełandezo
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
@@ -629,7 +629,7 @@ dv_UNTERM_Chinese_Formal: 新西兰
 dv_UNTERM_French_Formal: la Nouvelle-Zélande
 dv_UNTERM_Russian: Новая Зеландия
 dv_UNTERM_Russian_Formal: Новая Зеландия
-dv_Region_Name: '[[../Oceania|Oceania]]'
+dv_Region_Name: '[[../../Oceania|Oceania]]'
 dv_Intermediate_Region_Name: '[[New_Zealand]]'
 dv_Sub-region_Name: '[[Australia and New Zealand]]'
 dv_Region: 9
@@ -654,7 +654,7 @@ dv_ISO2: NZ
 dv_ISO3: NZL
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+  - '[[../../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
   - '[[/_Standards/Earth/Continent/Australasia/New_Zealand|New_Zealand]]'
   - '[[/_public/Earth/Continent/Australasia/New_Zealand.public|New_Zealand.public]]'
   - '[[/_internal/Earth/Continent/Australasia/New_Zealand.internal|New_Zealand.internal]]'
@@ -986,12 +986,12 @@ dv_has_place_continent: '[[Australia]]'
 dv_VehicleCode: NZ
 dv_Alcohol-l: 9.6
 dv_Language-Id: 499
-dv_is_a_: "[[../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 174.78
 dv_has_place_latitude: -41.28
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+- '[[../../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
 - '[[/_Standards/Earth/Continent/Australasia/New_Zealand|New_Zealand]]'
 - '[[/_public/Earth/Continent/Australasia/New_Zealand.public|New_Zealand.public]]'
 - '[[/_internal/Earth/Continent/Australasia/New_Zealand.internal|New_Zealand.internal]]'
@@ -1078,7 +1078,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[New_Zealand/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1104,7 +1104,7 @@ Capital :: [[Wellington]]
 
 ![[Coat_of_arms_of_New_Zealand.svg|550]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-New-zealand-god-defend-new-zealand.mp3|Anthem-New-zealand-god-defend-new-zealand.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-New-zealand-god-defend-new-zealand.mp3|Anthem-New-zealand-god-defend-new-zealand.mp3]]
 
 ![[Flag_of_New_Zealand.svg|350]]
 
